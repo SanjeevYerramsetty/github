@@ -9,6 +9,7 @@ public class Github {
 		case 20:System.out.println("20");break;
 		case 30:System.out.println("30");break;
 		default:System.out.println("Not in 10 20 30");
+		System.out.println("cegep");
 		// TODO Auto-generated method stub
 		}
 
